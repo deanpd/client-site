@@ -1,5 +1,50 @@
 * { box-sizing: border-box; }
 
+<<<<<<< HEAD
 h1 {
   font-family: "abril-fatface", serif;
 }
+=======
+body {
+  background-color: rgb(218, 231, 185);
+}
+
+a {
+  font-family: "league-gothic", sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  color: rgb(78, 64, 54);
+  text-decoration: none;
+}
+
+h1 {
+  font-family: "league-gothic", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  color: rgb(78, 64, 54);
+}
+
+h2, h3 {
+  font-family: "garamond-premier-pro", serif;
+  font-weight: 600;
+  font-size: 1.75rem;
+  color: rgb(78, 64, 54);
+  padding: 0.375rem 0 0 0;
+}
+
+.bodycopy {
+  font-family: "garamond-premier-pro", serif;
+  color: rgb(78, 64, 54);
+  text-align: justify;
+  padding: 0.375rem 0rem 0.375rem 0;
+}
+
+/* colors
+
+Brown 78, 64, 54
+Grey 143, 134, 126
+Green 164, 199, 78
+Off White 218, 231, 185
+
+*/
+>>>>>>> dean-work
