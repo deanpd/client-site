@@ -8,6 +8,10 @@ body {
   background-color: rgb(218, 231, 185);
 }
 
+ul {
+  list-style-type: none;
+}
+
 a {
   font-family: "league-gothic", sans-serif;
   font-size: 1rem;
@@ -23,7 +27,7 @@ h1 {
   color: rgb(78, 64, 54);
 }
 
-h2, h3 {
+h2, h3, h4, h5 {
   font-family: "garamond-premier-pro", serif;
   font-weight: 600;
   font-size: 1.75rem;
@@ -40,9 +44,9 @@ h2, h3 {
 
 /* colors
 
-Brown 78, 64, 54
-Grey 143, 134, 126
-Green 164, 199, 78
-Off White 218, 231, 185
+Brown rgb(78, 64, 54)
+Grey rgb(143, 134, 126)
+Green rgb(164, 199, 78)
+Off White rgb(218, 231, 185)
 
 */
